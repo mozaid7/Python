@@ -1,5 +1,5 @@
 # print("Hello Zaidy")
-# print("Youre dope bro")
+# print("You're dope bro")
 
 name = "Zaid"
 age =23
@@ -8,3 +8,8 @@ print(price)
 
 print("Greet me as", name)
 print(type(name))
+
+a = 3
+b = 6
+sum = a+b
+print(sum)  
