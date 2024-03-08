@@ -47,7 +47,7 @@
 #     pass     #used when we want to leave the loop empty
 
 
-#--> Factorial Question
+#--> Factorial Question  kjh
 # n = 6
 # fact = 1
 # for i in range(1, n+1):
